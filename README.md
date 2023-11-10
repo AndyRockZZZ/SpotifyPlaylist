@@ -6,9 +6,7 @@ Create a new Spotify Playlist of Top 100 Songs from billboard.com<br>
 <p>For the Authentication, if you have Spotify account, then go to this website called <a href="https://developer.spotify.com/dashboard">Spotify for Developers</a>, to create an App and get your <strong>Client ID</strong> & <strong>Secret Code</strong>.</p>
 
 # Example
-<p>The date that I want to use for my playlist is "2016-11-12".<br>Send request to the Billboard URL. This is the page to web scrap the Top 100 Songs.<br><br>![URL Image](https://github.com/AndyRockZZZ/SpotifyPlaylist/assets/25687861/b924eded-186a-4dc3-91f8-49c3d18fcd56)<br>![Top 100 Songs](https://github.com/AndyRockZZZ/SpotifyPlaylist/assets/25687861/b1dddbaf-02cc-4ec9-b62c-accc196fdbd8)<br><br>The result of the requested songs into a playlist.<br><br>![Spotify Playlist](https://github.com/AndyRockZZZ/SpotifyPlaylist/assets/25687861/68d73d3e-9119-4eda-b6df-21b05d8fc889)</p>
-
-
+<p>The date that I want to use for my playlist is "2016-11-12".<br>Send request to the Billboard URL. This is the page to web scrap the Top 100 Songs.<br><br><img src="https://github.com/AndyRockZZZ/SpotifyPlaylist/assets/25687861/b924eded-186a-4dc3-91f8-49c3d18fcd56"><br><img src="https://github.com/AndyRockZZZ/SpotifyPlaylist/assets/25687861/b1dddbaf-02cc-4ec9-b62c-accc196fdbd8"><br><br>The result of the requested songs into a playlist.<br><br><img src="https://github.com/AndyRockZZZ/SpotifyPlaylist/assets/25687861/68d73d3e-9119-4eda-b6df-21b05d8fc889"></p>
 
 # Have a go
 <p>If you like to have go with this project, you're welcome to download my code into your Python or Pycharm software.<br>The things you need are:
